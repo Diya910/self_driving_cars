@@ -1,5 +1,6 @@
 🚗 Self-Driving Cars Simulation using NEAT and Pygame
-Welcome to the Self-Driving Cars Simulation repository! This project demonstrates how to train self-driving cars using the NEAT (NeuroEvolution of Augmenting Topologies) algorithm and visualize the simulation using Pygame.
+Welcome to the Self-Driving Cars Simulation repository!
+This project demonstrates how to train self-driving cars using the NEAT (NeuroEvolution of Augmenting Topologies) algorithm and visualize the simulation using Pygame.
 
 📜 Table of Contents
 Introduction
